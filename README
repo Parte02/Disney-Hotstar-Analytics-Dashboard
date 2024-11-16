@@ -1,0 +1,63 @@
+# Disney+ Hotstar Analytics Dashboard
+
+## Project Overview
+This project provides an analytical dashboard for **Disney+ Hotstar**, focusing on analyzing user engagement, content performance, and other key metrics. It consists of two main components:
+
+- **Hotstar.ipynb**: A Jupyter Notebook for preprocessing and analyzing data.
+- **Disney-Hotstar.pbix**: A Power BI dashboard file for visualizing insights interactively.
+
+---
+
+## Features
+1. **Data Preprocessing**:
+   - Cleaning and transformation of raw data.
+   - Generating key performance indicators (KPIs) for analysis.
+
+2. **Visualization**:
+   - Interactive Power BI dashboard with visualizations for:
+     - User engagement.
+     - Viewership trends.
+     - Content performance metrics.
+     - Revenue insights.
+
+3. **Insights**:
+   - Data-driven insights to improve user experience.
+   - Identification of popular content categories.
+   - Trends in user subscription and retention.
+
+---
+
+## Installation & Usage
+
+### Prerequisites
+- **Python 3.8+** for running the Jupyter Notebook.
+- **Power BI Desktop** for opening the `.pbix` file.
+
+### Steps
+1. **Run the Jupyter Notebook**:
+   - Open `Hotstar.ipynb` using Jupyter Notebook or JupyterLab.
+   - Install required Python packages using `pip install -r requirements.txt`.
+   - Execute cells to preprocess data and generate output.
+
+2. **View the Dashboard**:
+   - Open `Disney-Hotstar.pbix` using Power BI Desktop.
+   - Explore interactive dashboards to gain insights.
+
+---
+
+## Technologies Used
+- **Python** (for data analysis and preprocessing).
+- **Jupyter Notebook** (for scripting and analysis).
+- **Power BI** (for creating interactive dashboards).
+
+---
+
+## Future Scope
+- Integration of real-time data for live insights.
+- Enhanced predictive analytics using machine learning.
+- Additional dashboards for customer segmentation and targeted marketing.
+
+---
+
+## Contributors
+- **Shubham Parte**
